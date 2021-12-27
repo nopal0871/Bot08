@@ -1,5 +1,5 @@
 {
-  "name": "BOTZ16",
+  "name": "HYPERBOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "naylachan",
+  "author": "HyperGamteng",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
